@@ -1,4 +1,6 @@
 {
-    "editor.fontFamily": "\"Montserrat Semi-Bold\"",
-    "editor.fontSize": 14
+    "editor.fontFamily": "Courier",
+    "editor.fontSize": 15,
+    "terminal.integrated.fontFamily": "Courier",
+    "terminal.integrated.fontSize": 16
 }
